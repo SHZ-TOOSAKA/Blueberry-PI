@@ -24,3 +24,5 @@ The Blueberry PI:<br>
 
 The Blueberry PI can boot from an SD card or SPI Flash. <br>
 If you have any questions email me at info.blueberrypi@gmail.com
+
+https://whycan.cn/t_1513.html#p35124
